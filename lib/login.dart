@@ -11,7 +11,7 @@ class ScreenLogin extends StatefulWidget {
 }
 
 class _ScreenLoginState extends State<ScreenLogin> {
-  final _userNameController = TextEditingController();
+  final _userNameController = TextEditingController(); 
 
   final _passwordController = TextEditingController();
 
